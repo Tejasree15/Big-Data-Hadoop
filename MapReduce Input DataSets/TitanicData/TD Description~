@@ -1,0 +1,26 @@
+Titanic Data Alayisis
+
+Data Description :
+
+Column 1 : PassengerId – unique id of a passenger
+Column 2 : Survived (survived=0 & died=1)
+Column 3 : Pclass – class in which passengers travelled
+Column 4 : Name
+Column 5 : Sex
+Column 6 : Age
+Column 7 : SibSp
+Column 8 : Parch
+Column 9 : Ticket
+Column 10 : Fare
+Column 11 : Cabin
+Column 12 : Embarked
+
+Problem Statement :
+
+•Write a map reduce code to find out the average age of the males and females died.
+•Write a map reduce code to find out the number of males and females died.
+•Write a map reduce code to find out how many passangers survived in each class.
+
+
+
+

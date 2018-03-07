@@ -1,0 +1,6 @@
+Hello every one
+welcome to hadoop training
+today we are going to discuss about Map Reduce concepts
+let us start with word count example
+this is a sample input data set for word count example
+here we are trying to get the count of each word in the data set
